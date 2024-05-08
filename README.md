@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This is a portfolio website template designed to showcase your skills, projects, and contact information. It's built using HTML, CSS, and JavaScript.
+This is a portfolio website template designed to showcase my skills, projects, and contact information. It's built using HTML, CSS, and JavaScript.
 
 ## Features
 
